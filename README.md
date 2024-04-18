@@ -1,6 +1,6 @@
 <h1>👋 Hi there! I’m @h20solida (Manuel).</h1>
 <h2>About me</h2>
-<p><b>I´m programming student living in Spain. I like the sports, video games and learn little bit about programming everyday. I began to program in 2023 and I will try to improve everyday to have a nice clean code! :)
+<p><b>I´m programming student living in Spain. I like the sports, video games and learning little bit about programming everyday. I began to program in 2023 and I will try to improve everyday to have a nice clean code! :)
 </b></p>
 
 <h3>⚒️ My projects:</h3>
